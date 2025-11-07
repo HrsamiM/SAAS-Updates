@@ -1,0 +1,11 @@
+Contact widget Used "Contact Page"
+.cntemail 
+.cntnum
+
+Contact widget Used "Header Icon Box"
+.hmail 
+.hcallus 
+
+Contact widget Used "Footer List Icon List"
+.foomail 
+.foonum
